@@ -1,0 +1,5 @@
+model_improvement = fisrt attempt to tweak parameters of the model
+auto_find = handmade attempt to find best percentages to drop NA and limits to fill NA
+using two metrics that i borrowed from some notebooks
+grid_search = well grid search
+feature engineering = last best attempt mostly borrowed from top notebooks with aggregated data

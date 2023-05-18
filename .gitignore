@@ -1,0 +1,8 @@
+# ignore all.csv files
+*.csv
+# ignore all.zip
+*.zip
+# ignore all folders of subs
+total*
+.idea/
+old*
