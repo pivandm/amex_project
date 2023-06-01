@@ -4,7 +4,9 @@
 *.zip
 # ignore all folders of subs
 total*
+catboost_info
 .idea/
+Digraph.gv*
 old*
 Models
 
