@@ -8,6 +8,7 @@ total*
 catboost_info
 .idea/
 Digraph.gv*
+*.pqt
 old*
 Models
 
