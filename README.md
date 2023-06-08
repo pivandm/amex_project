@@ -6,6 +6,7 @@ Our first ML project based on the Kaggle competition from American Express
 
 
 Piiashev Ivan:
-Piiashev_Ivan.ipynb my final file for xGboost, LightGBM, preprocessing for catboost and catboost attempt were also done by me.
+All files are in the folder named after me.
+Piiashev_Ivan.ipynb my final file for xGboost, LightGBM, preprocessing for catboost and catboost attempt were are my Catboost files.
 
 Shutov Alexey:
