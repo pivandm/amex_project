@@ -29,7 +29,7 @@ Catboost attempt - catboost training
 
 
 ### Shutov Alexey:
-My work is saved in a file lightgbm_Alexey.ipynb
+My main work is saved in a file lightgbm_Alexey.ipynb
 
 ### Other:
 .txt files contain saved via pickle variables, not be checked.
