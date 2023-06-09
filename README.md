@@ -10,3 +10,5 @@ All files are in the folder named after me.
 Piiashev_Ivan.ipynb my final file for xGboost, LightGBM, preprocessing for catboost and catboost attempt were are my Catboost files.
 
 Shutov Alexey:
+My work is saved in a file lightgbm_Alexey.ipynb
+
